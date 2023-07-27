@@ -63,7 +63,7 @@ const movieValidationSchema = yup.object({
       <AppBar className='navbar' position="static">
             <Toolbar>
                 <Typography onClick={() => navigate('/bags/menu')} className='logo' variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                    Piz<span className='logo-F'>za</span>Hunt
+                    Classy<span className='logo-F'>clu</span>tches
                 </Typography>
                 <Button onClick={() => navigate('/bags/menu')} color="inherit">Back to Bags</Button>
             </Toolbar>

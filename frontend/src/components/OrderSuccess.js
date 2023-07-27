@@ -19,7 +19,7 @@ export function OrderSuccess() {
       <AppBar className='navbar' position="relative">
         <Toolbar>
           <Typography onClick={() => navigate('/')} className='logo' variant="h6" component="div" sx={{ flexGrow: 1 }}>
-          Piz<span className='logo-F'>za</span>Hunt
+          Classy<span className='logo-F'>clu</span>tches
           </Typography>
           <Button onClick={handleClick} color="inherit">Logout</Button>
         </Toolbar>

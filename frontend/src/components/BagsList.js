@@ -77,7 +77,7 @@ export function BagsList() {
               component="div"
               sx={{ flexGrow: 1 }}
             >
-              Piz<span className="logo-F">za</span>Hunt
+              Classy<span className="logo-F">clu</span>tches
             </Typography>
               <StyledBadge
                 overlap="circular"

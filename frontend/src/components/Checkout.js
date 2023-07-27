@@ -64,7 +64,7 @@ function Checkout() {
     <AppBar className='navbar' position="static">
       <Toolbar>
         <Typography className='logo' variant="h6" component="div" sx={{ flexGrow: 1 }}>
-          Piz<span className='logo-F'>za</span>Hunt
+          Classy<span className='logo-F'>clu</span>tches
         </Typography>
         <Button onClick={() => navigate('/bags/menu/cart')} color="inherit">Cart</Button>
         <Button onClick={handleClick} color="inherit">

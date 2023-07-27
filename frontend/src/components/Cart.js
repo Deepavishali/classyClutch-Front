@@ -24,7 +24,7 @@ function Cart() {
    <AppBar className='navbar' position="static">
             <Toolbar>
                 <Typography  className='logo' variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                    Piz<span className='logo-F'>za</span>Hunt
+                    Classy<span className='logo-F'>clu</span>tches
                 </Typography>
                 <Button onClick={() => navigate('/bags/menu/cart/checkout')} color="inherit">Checkout</Button>
             </Toolbar>
