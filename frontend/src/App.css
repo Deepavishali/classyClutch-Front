@@ -1,0 +1,106 @@
+.home-sd {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url("https://img.freepik.com/free-photo/blonde-shopper-carrying-paper-bags_23-2147962243.jpg?size=626&ext=jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  /* opacity: 0; */
+}
+.bag-sd {
+  content: "";
+  /* position: absolute; */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url("https://www.shutterstock.com/shutterstock/photos/1966878925/display_1500/stock-vector-ladies-handbag-set-of-fashion-accessories-seamless-vector-pattern-background-cartoon-print-1966878925.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  opacity: 0.90;
+}
+.home-signup {
+  content: "";
+  /* position: absolute; */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url("https://www.shutterstock.com/shutterstock/photos/1966878925/display_1500/stock-vector-ladies-handbag-set-of-fashion-accessories-seamless-vector-pattern-background-cartoon-print-1966878925.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  opacity:1;
+}
+.home-login {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url("https://www.shutterstock.com/shutterstock/photos/1966878925/display_1500/stock-vector-ladies-handbag-set-of-fashion-accessories-seamless-vector-pattern-background-cartoon-print-1966878925.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  opacity:1;
+}
+
+.order-success {
+  background-color: white;
+  margin: 3rem 2rem;
+  padding: 1.5rem;
+  border-radius: 18px;
+  box-shadow: 2px 2px 20px 2px rgb(205 205 205 / 70%);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar {
+  background-color: #4BB4A0 !important;
+}
+
+.logo {
+  color: rgb(255, 255, 255);
+  font-size: 24px !important;
+  cursor: pointer;
+}
+
+.logo-F {
+  color: rgba(0, 0, 0, 0.911);
+}
+
+.intro-container {
+  position: relative;
+  margin-left: 10%;
+  margin-right: 15%;
+  margin-top: 7.5%;
+  margin-bottom: 5%;
+}
+
+.intro {
+  margin-bottom: 30px;
+  color: white;
+}
+
+.home-pz {
+  position: absolute;
+  background-image: url("https://img.freepik.com/free-vector/soft-pastel-background-with-flowers_79603-1074.jpg");
+  background-size: cover;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
